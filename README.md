@@ -14,7 +14,7 @@ Phoca Cart Administration - Default Plugin - plugin administration method for Ph
 
 ## Project page
 
-[Phoca Cart Administration Default Plugin](https://www.phoca.cz/phocacart-extensions/)
+[Phoca Cart Administration Default Plugin](https://www.phoca.cz/phocacart-extensions/2-plugins/34-administration-default-plugin)
 
 [Phoca Cart Info Page](https://www.phoca.cz/project/phocacart-joomla-ecommerce)
 
