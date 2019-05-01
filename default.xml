@@ -2,7 +2,7 @@
 <extension type="plugin" group="pca" method="upgrade" version="3">
 	<name>plg_pca_default</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>06/04/2019</creationDate>
+	<creationDate>15/04/2019</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
@@ -15,6 +15,7 @@
 		<folder>helpers</folder>
 		<filename plugin="default">default.php</filename>
 		<filename plugin="default">index.html</filename>
+		<filename plugin="default">manifest.xml</filename>
 	</files>
 
 	<languages>
