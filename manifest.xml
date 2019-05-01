@@ -5,10 +5,10 @@
 		<element>default</element>
 		<folder>pca</folder>
 		<type>plugin</type>
-		<version>3.1.8</version>
-		<infourl title="Phoca Cart Administration Default Plugin 3.1.8">https://www.phoca.cz/</infourl>
+		<version>3.1.9</version>
+		<infourl title="Phoca Cart Administration Default Plugin 3.1.9">https://www.phoca.cz/</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartAdministrationDefaultPlugin/releases/download/3.1.8/plg_pca_default_v3.1.8.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartAdministrationDefaultPlugin/releases/download/3.1.9/plg_pca_default_v3.1.9.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
