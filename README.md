@@ -54,7 +54,7 @@ Phoca Cart Administration - Default Plugin - plugin administration method for Ph
 
 ## Version
 
-3.2.0
+3.3.0
 
 
 
