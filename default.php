@@ -22,20 +22,20 @@ class plgPCADefault extends JPlugin
 		$this->loadLanguage();
 	}
 
-	public function PCAonItemBeforeSave($context, &$table, $isNew, $data) {
-		
+	public function onPCAonItemBeforeSave($context, &$table, $isNew, $data) {
+
 	}
-	
-	public function PCAonItemAfterSave($context, &$table, $isNew, $data) {
-		
+
+	public function onPCAonItemAfterSave($context, &$table, $isNew, $data) {
+
 	}
-	
-	public function PCAonCategoryBeforeSave($context, &$table, $isNew, $data) {
-		
+
+	public function onPCAonCategoryBeforeSave($context, &$table, $isNew, $data) {
+
 	}
-	
-	public function PCAonCategoryAfterSave($context, &$table, $isNew, $data) {
-		
+
+	public function onPCAonCategoryAfterSave($context, &$table, $isNew, $data) {
+
 	}
 }
 ?>

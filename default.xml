@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="pca" method="upgrade" version="3">
+<extension type="plugin" group="pca" method="upgrade" version="4.0">
 	<name>plg_pca_default</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>29/07/2019</creationDate>
+	<creationDate>23/02/2022</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
 	<license>GNU/GPL</license>
-	<version>3.3.0</version>
+	<version>4.0.0</version>
 	<description>PLG_PCA_DEFAULT_DESCRIPTION</description>
 	<projectName>PhocaCartAdministrationDefaultPlugin</projectName>
 
 	<files>
 		<folder>helpers</folder>
-		<filename plugin="default">default.php</filename>
 		<filename plugin="default">index.html</filename>
 		<filename plugin="default">manifest.xml</filename>
+		<filename plugin="default">default.php</filename>
 	</files>
 
 	<languages>
